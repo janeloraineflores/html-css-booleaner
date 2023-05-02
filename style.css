@@ -1,0 +1,23 @@
+/*Header*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#title{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(57, 164, 246);
+    background-image: url(img/pattern.png);
+    background-size: 600px;
+    
+ 
+}
+
+#logo{
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+}
